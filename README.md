@@ -37,12 +37,12 @@ To use the `knightMoves` function, simply clone the repository or add the `knigh
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/knights-travails.git
+    git clone git@github.com:TEKKSUNN/odin-knights-travails.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd knights-travails
+    cd odin-knights-travails
     ```
 
 3. Install dependencies (if you want to run tests):
